@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ARCM_DATA_MODEL" id="DB726E2F-E525-24AF-98B0-C09BD443A730" version="3.5">
+<createdBy>DELL</createdBy>
+<createdTime>2022-04-08 16:01:57 UTC</createdTime>
+<ownerDesignName>ARCM_DATA_MODEL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DB726E2F-E525-24AF-98B0-C09BD443A730</designId>
+</OSDM_Design>

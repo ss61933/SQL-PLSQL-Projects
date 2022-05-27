@@ -1,0 +1,16 @@
+Linear regression--
+to find annual sale of company -
+so we will have to get all factors which affects or contri towards annual sales 
+examples - total sale, total profit , loss, investment in marketing , platform .,vendors etc 
+So we need to get all dpendent and independent variables 
+
+examples x axix have dependent variable , y axis indpe. variable 
+
+So graph will show individual data in ur data set 
+
+Simple linear regression- 
+only one independent variable 
+
+
+Multiple linear regression-
+more than one indep. variable 
