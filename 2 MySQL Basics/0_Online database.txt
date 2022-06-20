@@ -1,0 +1,11 @@
+https://remotemysql.com/databases.php
+
+Username: SgQTIP11X1
+
+Database name: SgQTIP11X1
+
+Password: YxHjUiLtu7
+
+Server: remotemysql.com
+
+Port: 3306
