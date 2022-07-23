@@ -43,5 +43,3 @@ port :3306
 username:user1 password:user1
 defautl schema :analytical_db
 
-Login as user1/user1
-but not able to create a table 
